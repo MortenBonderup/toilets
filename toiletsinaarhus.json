@@ -1,0 +1,416 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:25832"
+        }
+    },
+    "bbox": [572633.2473688942, 6222263.99615841, 576235.4856788451, 6226383.997544043],
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [575239.437162948, 6223894.004374951]
+        },
+        "properties": {
+            "status": "Ude af drift",
+            "jcd_nr_": "AAR0002SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Mindebrogade 3",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102113,
+            "easting_westing": 561543,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.53",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 1
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574952.6466983313, 6223760.291591802]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0003SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Amaliegade 27",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102066,
+            "easting_westing": 561529,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.567",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 2
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574856.3599744864, 6223527.5789597845]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0004SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Banegårdspladsen 4A",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102049,
+            "easting_westing": 561508,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.597",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 3
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [575360.0738649992, 6224169.49829896]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0006SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Skibbrogade 1",
+            "placeringsinfo": "v/Skolebakken v/Havnens P-Plads",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102131,
+            "easting_westing": 561565,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.627",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 5
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574957.3138462029, 6224028.496999366]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0007SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Telefontorvet 5",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102068,
+            "easting_westing": 561554,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.66",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 6
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574549.8536961579, 6223567.220890785]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0008SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Frederiks Alle 20A",
+            "placeringsinfo": "v/Føtex",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102002,
+            "easting_westing": 561514,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.69",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 7
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [576235.4856788451, 6225413.815021889]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0009SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Jette Tikjøbs Plads 13",
+            "placeringsinfo": "på Jette Tikjøbs Plads mod nord",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102089,
+            "easting_westing": 561597,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.723",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 8
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574490.0630791673, 6224178.496467409]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0010SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Vester Alle 18",
+            "placeringsinfo": "v/Mølleparken",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 101995,
+            "easting_westing": 561557,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.753",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 9
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [575022.4395244531, 6222263.99615841]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0011SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": "Fintenborg Plads",
+            "adresse": "Strandvejen 17",
+            "placeringsinfo": "Tangkrogen",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 102073,
+            "easting_westing": 561396,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.783",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 10
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574482.8067361867, 6222859.504944319]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0012SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Ingerslevs Boulevard 2G",
+            "placeringsinfo": "Ingerslevs Plads",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 101988,
+            "easting_westing": 561449,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.817",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 11
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [575641.496284979, 6226383.997544043]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0014SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Marienlunds Alle 25",
+            "placeringsinfo": "Marienlund",
+            "postnr_": 8200,
+            "by_": "Århus N",
+            "kommune": "Aarhus",
+            "northing": 102196,
+            "easting_westing": 561772,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.843",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 13
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574491.003105417, 6224339.503694853]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0015SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Vesterbro Torv 13A",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 101993,
+            "easting_westing": 561583,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.93",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 14
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [573950.9415332472, 6222705.496292334]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0016SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Harald Jensens Plads 8",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 101902,
+            "easting_westing": 561436,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.96",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 15
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [572633.2473688942, 6224009.500865974]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0017SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Silkeborgvej 224",
+            "placeringsinfo": "Åbyhøj Torv",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 101693,
+            "easting_westing": 561556,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:37.993",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 16
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [574913.6603464996, 6224152.291801292]
+        },
+        "properties": {
+            "status": "Aktiv",
+            "jcd_nr_": "AAR0018SA",
+            "familie": "Toilet",
+            "subfamilie": "TOI Cox",
+            "navn": " ",
+            "adresse": "Åboulevarden 43A",
+            "placeringsinfo": " ",
+            "postnr_": 8000,
+            "by_": "Århus C",
+            "kommune": "Aarhus",
+            "northing": 10206,
+            "easting_westing": 561565,
+            "distrikt": "Aarhus AB",
+            "oprettet_af": "az25000",
+            "oprettet_dato": "2018-10-01 13:12:00.333",
+            "rettet_af": "ADM\\az01134",
+            "rettet_dato": "2018-12-03 11:47:38.027",
+            "mi_style": "Symbol (60,255,14,\"MapInfo Miscellaneous\",0,0)",
+            "mi_prinx": 17
+        }
+    }]
+}
