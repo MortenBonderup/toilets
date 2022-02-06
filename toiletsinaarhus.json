@@ -14,7 +14,7 @@
             "coordinates": [575239.437162948, 6223894.004374951]
         },
         "properties": {
-            "status": "Ude af drift",
+            "status": "Out of order",
             "jcd_nr_": "AAR0002SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -41,7 +41,7 @@
             "coordinates": [574952.6466983313, 6223760.291591802]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0003SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -68,7 +68,7 @@
             "coordinates": [574856.3599744864, 6223527.5789597845]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0004SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -95,7 +95,7 @@
             "coordinates": [575360.0738649992, 6224169.49829896]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0006SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -122,7 +122,7 @@
             "coordinates": [574957.3138462029, 6224028.496999366]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0007SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -149,7 +149,7 @@
             "coordinates": [574549.8536961579, 6223567.220890785]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0008SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -176,7 +176,7 @@
             "coordinates": [576235.4856788451, 6225413.815021889]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0009SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -203,7 +203,7 @@
             "coordinates": [574490.0630791673, 6224178.496467409]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0010SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -230,7 +230,7 @@
             "coordinates": [575022.4395244531, 6222263.99615841]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0011SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -257,7 +257,7 @@
             "coordinates": [574482.8067361867, 6222859.504944319]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Out of order",
             "jcd_nr_": "AAR0012SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -284,7 +284,7 @@
             "coordinates": [575641.496284979, 6226383.997544043]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0014SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -311,7 +311,7 @@
             "coordinates": [574491.003105417, 6224339.503694853]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Out of order",
             "jcd_nr_": "AAR0015SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -338,7 +338,7 @@
             "coordinates": [573950.9415332472, 6222705.496292334]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0016SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -365,7 +365,7 @@
             "coordinates": [572633.2473688942, 6224009.500865974]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0017SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
@@ -392,7 +392,7 @@
             "coordinates": [574913.6603464996, 6224152.291801292]
         },
         "properties": {
-            "status": "Aktiv",
+            "status": "Active",
             "jcd_nr_": "AAR0018SA",
             "familie": "Toilet",
             "subfamilie": "TOI Cox",
